@@ -29,6 +29,9 @@ Create a new function in your function app project.
 
 ## 3. Install the ServiceBus package
 `Microsoft.Azure.WebJobs.ServiceBus`
+* _[Installing packages in Visual Studio](https://docs.microsoft.com/en-us/nuget/tools/package-manager-ui#finding-and-installing-a-package)_
+* _[Installing packages in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=jmrog.vscode-nuget-package-manager)_
+    * _[How to open the command palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette)_
 
 ## 4. Update the function code for your HTTP trigger
 1. This code will take a HTTP POST request
